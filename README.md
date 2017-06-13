@@ -1,5 +1,5 @@
 # sozysozbot.github.io
-@sozysozbot's page
+[sozysozbot](https://twitter.com/sosoBOTpi)'s page
 
 ## 制作(Web系)一覧
 
