@@ -6,6 +6,7 @@
 ### ロジバン / lojban
 [zbalermorna renderer](https://sozysozbot.github.io/zbalermorna_renderer/renderer.htm)  
 [jvozba by sozysozbot](https://sozysozbot.github.io/sozysozbot_jvozba/sozysozbot_jvozba.html)
+[Etymologies of gismu in hajiloji](https://sozysozbot.github.io/hajiloji_gismu_etym/etymologies.html)
 
 ### リパライン語 / lineparine
 [リパーシェ入力テキストエリア / liparxe input area](https://sozysozbot.github.io/lineparine-typing/)  
