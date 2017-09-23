@@ -18,6 +18,13 @@
 - [隋語母音表](https://sozysozbot.github.io/zyegnio_xrynmu/)  
 - [漢字音、サタ行 vs. ㅅㄷㅌㅈㅊ](https://gist.github.com/sozysozbot/5a39ab628c8714e93d1d966e70a05b00)
 
+### 悠里世界OSプロジェクト
+- [悠里世界OSプロジェクトページ](https://sites.google.com/site/panqateel/home)
+- [Githubリポジトリ](https://github.com/jurliyuuri/OS/blob/master/README.md)
+- [panqateel - 悠里包括Wiki](http://www.jurliyuuri.info/wiki/panqateel)
+- [設定一覧（暫定）](http://jurliyuuri.com/OS/settings.html)
+- [オペコードなどについて考察する](http://jurliyuuri.com/OS/opcode.html)
+
 ## 今後作って公開していきたいもの
 - akrantiain Web版
 - リパライン語分解器
