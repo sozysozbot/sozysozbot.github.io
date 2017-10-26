@@ -11,6 +11,7 @@
 
 ### リパライン語 / lineparine
 - [リパーシェ入力テキストエリア / liparxe input area](https://sozysozbot.github.io/lineparine-typing/)  
+- [リパライン語複合語分解器](https://sozysozbot.github.io/lineparine-typing/decompose.html)
 
 ### 東アジア諸言語 / East Asian languages
 - [日本漢字音・中国中古音対応表 隋拼・Segsyoxafu版 / Hanzi sounds of Japanese and Middle Chinese (written in Zyepheng and Segsyoxafu)](https://sozysozbot.github.io/kanzihom_taihogxeu/%E5%AF%BE%E5%BF%9C%E8%A1%A8.html)  
@@ -27,5 +28,4 @@
 
 ## 今後作って公開していきたいもの
 - akrantiain Web版
-- リパライン語分解器
 - 悠里諸言語対応のタイピングゲーム
