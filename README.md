@@ -26,6 +26,19 @@
 - [設定一覧（暫定）](http://jurliyuuri.com/OS/settings.html)
 - [オペコードなどについて考察する](http://jurliyuuri.com/OS/opcode.html)
 
+### バート語
+- [バート語トップページ（暫定）](http://jurliyuuri.com/bhaataan/index.html)
+- [バート語について考察する](http://jurliyuuri.com/bhaataan/investigate.html)
+
+### 悠里「考察する」シリーズ
+- [色空間などについて考察する](http://jurliyuuri.com/OS/colors_memo.html)
+- [オペコードなどについて考察する](http://jurliyuuri.com/OS/opcode.html)
+- [音楽理論などについて考察する](http://jurliyuuri.com/niesnurjorup/)
+- [度量衡などについて考察する](http://jurliyuuri.com/JVJLF/jysnej/)
+- [リパライン語の複合語について考察する](https://sozysozbot.github.io/lineparine-typing/decompose_log.html)
+- [古パイグなどについて考察する](http://jurliyuuri.com/praige-zerp/siar_prek.html)
+- [バート語について考察する](http://jurliyuuri.com/bhaataan/investigate.html)
+
 ## 今後作って公開していきたいもの
 - akrantiain Web版
 - 悠里諸言語対応のタイピングゲーム
