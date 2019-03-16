@@ -21,6 +21,7 @@
 - [漢字音、サタ行 vs. ㅅㄷㅌㅈㅊ](https://gist.github.com/sozysozbot/5a39ab628c8714e93d1d966e70a05b00)
 - [隋拼と前期中古音の軽い紹介](https://github.com/sozysozbot/zyegnio_xrynmu/blob/master/introduction.md)
 - [中古音絡みの有用な画像たち](https://sozysozbot.github.io/zyegnio_xrynmu/images.html)
+- [Anki単語帳「千字文 漢⇔羅 with 隋拼」](https://ankiweb.net/shared/info/795914888)
 
 ### 悠里世界OSプロジェクト
 - [悠里世界OSプロジェクトページ](https://sites.google.com/site/panqateel/home)
