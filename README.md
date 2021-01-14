@@ -43,6 +43,9 @@
 - [古パイグなどについて考察する](http://jurliyuuri.com/praige-zerp/siar_prek.html)
 - [バート語について考察する](http://jurliyuuri.com/bhaataan/investigate.html)
 
+### その他
+- [60行詩](https://sozysozbot.github.io/hexecontastich/)
+
 ## 今後作って公開していきたいもの
 - akrantiain Web版
 - 悠里諸言語対応のタイピングゲーム
