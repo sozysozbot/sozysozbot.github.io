@@ -23,6 +23,15 @@
 - [音楽理論などについて考察する](http://jurliyuuri.com/niesnurjorup/)
 - [度量衡などについて考察する](http://jurliyuuri.com/JVJLF/jysnej/)
 
+### 燐字 / linzklar
+- [データセット](https://github.com/jurliyuuri/linzklar-recognition/)
+- [概略](https://github.com/jurliyuuri/lin-marn)
+
+### 机戦 / cetkaik
+- [机戦概略](https://github.com/sozysozbot/cerke)
+- [机戦盤SVGジェネレータ](https://github.com/sozysozbot/cetkaik_board_svg_generator)
+- [机戦オンライン対戦環境](https://github.com/jurliyuuri/cerke_online_alpha)
+
 ### リパライン語 / lineparine
 - [リパーシェ入力テキストエリア / liparxe input area](https://sozysozbot.github.io/lineparine-typing/)  
 - [リパライン語複合語分解器](https://sozysozbot.github.io/lineparine-typing/decompose.html)
